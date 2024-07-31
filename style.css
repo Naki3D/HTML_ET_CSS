@@ -1,0 +1,86 @@
+h1 {
+    /* petit commentaire sur
+    plusieurs lignes */
+    font-size: 3.5em;
+    font-family: Montserrat;
+}
+
+h2 {
+    /* petit commentaire sur
+    plusieurs lignes */
+    font-size: 1.5em;
+    font-family: Montserrat;
+}
+
+p {
+    /* petit commentaire sur
+    plusieurs lignes */
+    font-size: 1.1em;
+    font-family: Manrope;
+}
+
+ul, ol {
+    /* petit commentaire sur
+    plusieurs lignes */
+    font-size: 1em;
+    font-family: Manrope;
+}
+
+.voici {
+    color: #663399;
+}
+
+a {
+    color:black;
+    font-size: 1em;
+    font-family: Manrope;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.logos-menu {
+    background-color: white;
+    color: #242424;
+}
+
+a img:hover {
+    opacity: 0.5;
+    text-decoration: unset;
+}
+
+.logos-pied-page {
+    background-color: white;
+    color: #242424;
+}
+
+.important {
+    color: #a5b4fc;
+}
+
+em {
+    color: #a5b4fc;
+    font-style: normal;
+}
+
+body {
+    background-color: #1F2039;
+    color: #F9F8FF;
+}
+
+.cta {
+    color:white;
+    background: linear-gradient(#8E86B5,#ACAEED);
+    font-family: Manrope;
+    border-radius: 50px;
+}
+
+.cta a:hover {
+    color: linear-gradient(#696484,#8788BA);
+}
+
+.svc {
+    box-shadow: #8e86b5 1px;
+}
